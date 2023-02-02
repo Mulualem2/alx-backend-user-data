@@ -1,5 +1,3 @@
-able File  86 lines (71 sloc)  2.85 KB
-
 #!/usr/bin/env python3
 """ Regex-ing, Log formatter, Create logger, Connect to secure database,
     Read and filter data """
